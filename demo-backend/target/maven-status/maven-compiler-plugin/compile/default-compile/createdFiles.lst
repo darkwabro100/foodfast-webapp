@@ -1,0 +1,9 @@
+com/xosotv/live/xosotv_backend/binance_service/service/PositionManagementService$1.class
+com/xosotv/live/xosotv_backend/auth_service/database/Database.class
+com/xosotv/live/xosotv_backend/binance_service/service/BinanceSyncService$2.class
+com/xosotv/live/xosotv_backend/posts/repository/ImageRepository.class
+com/xosotv/live/xosotv_backend/posts/service/ImageService.class
+com/xosotv/live/xosotv_backend/posts/controller/ImageController.class
+com/xosotv/live/xosotv_backend/binance_service/dto/UpdatePriceDTO.class
+com/xosotv/live/xosotv_backend/posts/model/Image.class
+com/xosotv/live/xosotv_backend/binance_service/dto/UpdateRuleDTO.class
